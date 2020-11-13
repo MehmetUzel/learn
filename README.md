@@ -1,2 +1,4 @@
 # learn
-learning
+
+while(true)
+    learn();
